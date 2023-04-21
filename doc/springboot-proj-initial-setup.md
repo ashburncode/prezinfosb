@@ -43,7 +43,7 @@ https://www.manning.com/books/java-persistence-with-spring-data-and-hibernate   
 https://spring.io/guides/gs/accessing-data-mysql/
 ```
 
-During development, I alternated between using eclipse, spring tool suite (sts), and intelliJ idea (and vscode 1.77.0).
+During development, I alternated between using eclipse, spring tool suite (sts), and intellij idea (and vscode 1.77.0).
 
 ```
 -rw-rw-r--  1 davidho davidho  555719346 Mar 17 05:52  eclipse-jee-2023-03-R-linux-gtk-x86_64.tar.gz
